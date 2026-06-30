@@ -59,7 +59,7 @@ We validated 392 randomly sampled motions on a real Unitree Go2:
 
 ## Coming Soon
 
-The full dataset (7,488 motion clips with language annotations) will be released in July 2026.
+The full dataset (7,488 motion clips with language annotations) will be released upon paper acceptance.
 
 ## Citation
 
